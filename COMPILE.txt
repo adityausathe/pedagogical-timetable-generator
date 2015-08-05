@@ -1,0 +1,11 @@
+
+- A 'Makefile' is attached alongwith this. Program requires some directories which are created by the makefile.
+  Makefile also compiles the source code and creates executable 'schedule-generator'.
+
+*************************************************************************************
+
+- Run this make file only once.
+
+$ make	
+
+$ ./schedule-generator <subject-input-file> <teacher-input-file> <standard-input-file>
