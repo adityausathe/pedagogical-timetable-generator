@@ -1,0 +1,19 @@
+teacher_name	teacher_ID	workload	subject_ID
+"Mr Ram"	"APSCI1"	"12"		PH
+"Miss Shital"	"APSCI2"	"15"		PH
+"Mr Kumar"	"APSCI3"	"16"		PH
+"Mr sanu"	"MECH1"		"11"		BME  
+"Mr Sandeep"	"MECH2"		"13"		BME  
+"Mrs Devashri"	"MECH3"		"16"		BME
+"Miss Manasi"	"MATH1"		"16"		MATH1 MATH3
+"Miss Chitrali"	"MATH2"		"14"		MATH1
+"Mr Shrikant"	"MATH3"		"16"		MATH1 MATH3
+"Mr Shyam"	"MATH4"		"17"		MATH1
+"Mr Pratap"	"COMP1"		"14"		FCP DSA
+"Mr Khaled"	"COMP2"		"17"		FCP DSGT
+"Miss Ankita"	"COMP3"		"19"		FCP DS
+"Mr Niket"	"APSCI4"	"16"		EVS
+"Mr Mohan"	"APSCI5"	"16"		PC
+"Mr Pavan"	"CIVIL1"	"15"		EM
+"Mr Kalyan"	"CIVIL2"	"11"		EM
+"Mr Mohan"	"CIVIL3"	"13"		EM
