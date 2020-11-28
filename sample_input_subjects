@@ -1,0 +1,19 @@
+subject_ID	subject_name			credits/hrs
+
+"PH"		"Engg Physics"				"3"
+"BME"		"Basic Mech Engg"			"3"
+"EM"		"Engg Mechanics"			"3"
+"FCP"		"Funda of comp programming"		"3"
+"MATH1"		"Engg Math 1"				"4"
+"MATH3"		"Engg Math 2"				"4"
+"DSA"		"Data Structures"			"4"
+"DS"		"Digital systems"			"3"
+"DSGT"		"Discrete Structures & graph"		"3"
+"PC"		"Prof. Communication"			"1"
+"EVS"		"Environmental studies"			"2"
+	$lab$
+"PH_LAB"	"Engg Physics lab"			"2"
+"FCP_LAB"	"Funda of comp programming lab"		"3"
+"DSA_LAB"	"data structure lab"			"3"
+"DS_LAB"	"Digital systems lab"			"3"
+"PC_LAB"	"Prof Communication Lab"		"1"
