@@ -75,7 +75,7 @@ typedef struct standard_list {
 
 /* GLOBAL VARIABLES*/
 
-char input_file[8][16];
+char input_file[8][64];
 int lunch;
 
 /* function declarations: */
