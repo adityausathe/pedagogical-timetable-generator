@@ -1,5 +1,7 @@
 # School/College Schedule Generator
 ### :heavy_check_mark: Working
+### :warning: Historical Project
+This app was developed as an undergraduate mini-project. Its source-code does not adhere to standard conventions/practices and needs refactoring.
 
 ## Information
 It is a CLI based timetable generator, which takes in information about classes, subjects, credits, labs, teachers' availability, etc and creates timetable for each of the classes. It employs randomization-based heuristic as its generation strategy.
